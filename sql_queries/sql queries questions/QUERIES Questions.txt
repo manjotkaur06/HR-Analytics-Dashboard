@@ -1,0 +1,19 @@
+1. What is the overall attrition rate of the company?
+
+2. Which department has the highest number of employees leaving the company?
+
+3. What is the attrition count and percentage by gender?
+
+4. Which salary group experiences the highest attrition?
+
+5. What is the average age of employees who left the company?
+
+6. How does attrition vary by years at the company?
+
+7. Which education backgrounds have the highest attrition?
+
+8. Does working overtime affect attrition rates?
+
+9. Which age group is most likely to leave the company?
+
+10. What is the attrition rate per department (normalized for department size)?
