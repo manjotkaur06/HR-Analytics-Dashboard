@@ -1,0 +1,12 @@
+# Ignore system files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Ignore Power BI cache / temp files
+*.pbix.tmp
+*.pbix.lock
+*.tmp
+
+# Ignore hidden folders
+AppData/
